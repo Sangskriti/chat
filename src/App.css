@@ -1,7 +1,7 @@
 /* General Styling */
 body {
   font-family: Arial, sans-serif;
-  background: url("./bg.jpg") no-repeat center center/cover;
+  background: url("bg.jpg") no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
